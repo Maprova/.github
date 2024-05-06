@@ -1,6 +1,3 @@
-# ![Variant Long Website](https://avatars.githubusercontent.com/u/169066324)
-
-
 ## Velkommen 👋
 Søger du en smartere måde at håndtere dine arbejdsprocesser på?
 
