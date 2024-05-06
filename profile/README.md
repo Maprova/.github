@@ -1,6 +1,12 @@
 # ![Variant Long Website](https://avatars.githubusercontent.com/u/169066324)
 
-## Hi there 👋
+
+## Velkommen 👋
+Søger du en smartere måde at håndtere dine arbejdsprocesser på?
+
+Med Maprova kan du automatisere dataindsamling fra manuelle processer og optimere din virksomheds drift. Vores system er designet til både app og mobile enheder, hvilket giver dig realtidsopdateringer om status på opgaver, produktion, projekter og timeregistrering.
+
+Oplev en mere effektiv arbejdsdag med mindre papirarbejde og mere tid til at fokusere på det, der virkelig tæller. Tag kontrol over din arbejdsdag med Maprova – dit værktøj til enklere og mere effektiv styring.
 
 <!--
 
